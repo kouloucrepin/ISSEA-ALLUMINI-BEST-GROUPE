@@ -1,4 +1,6 @@
 # ISSEA-ALLUMINI-BEST-GROUPE
+##liens vers notre dashboard
+#https://nkconcrepinapps.shinyapps.io/best_groupe_of_ISSEA_ALUMINI/
 INSERTION PROFFESSIONNELLE ET EMPLOI EN AFRIQUE
 
 ### Insertion Professionnelle et Emploi en Afrique : Analyse et Perspectives Statistiques
